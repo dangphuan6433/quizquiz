@@ -1,0 +1,1 @@
+{"name":"quickquiz","version":"2.0.0","private":true,"description":"Multiplayer speed quiz with a room-specific question editor","scripts":{"start":"node server.js","check":"node --check server.js && node --check public/app.js"},"engines":{"node":">=22"}}

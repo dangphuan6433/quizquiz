@@ -1,0 +1,12 @@
+[
+  {"question":"Thủ đô của Việt Nam là thành phố nào?","options":["Hà Nội","Đà Nẵng","Hồ Chí Minh","Huế"],"correct":0},
+  {"question":"Hành tinh nào được gọi là Hành tinh Đỏ?","options":["Sao Kim","Sao Mộc","Sao Hỏa","Sao Thủy"],"correct":2},
+  {"question":"Một hình lục giác có bao nhiêu cạnh?","options":["5 cạnh","6 cạnh","7 cạnh","8 cạnh"],"correct":1},
+  {"question":"Đại dương lớn nhất trên Trái Đất là gì?","options":["Ấn Độ Dương","Bắc Băng Dương","Đại Tây Dương","Thái Bình Dương"],"correct":3},
+  {"question":"Trong Minecraft, vật phẩm nào dùng để chế tạo đuốc cùng với que gỗ?","options":["Than","Kim cương","Sắt","Đất"],"correct":0},
+  {"question":"Ký hiệu hóa học của nước là gì?","options":["CO₂","O₂","H₂O","NaCl"],"correct":2},
+  {"question":"Một giờ có bao nhiêu phút?","options":["30 phút","60 phút","90 phút","100 phút"],"correct":1},
+  {"question":"Ngôn ngữ lập trình thường dùng để viết script trong Unity là gì?","options":["HTML","SQL","CSS","C#"],"correct":3},
+  {"question":"Loài động vật nào chạy nhanh nhất trên cạn?","options":["Báo săn","Sư tử","Ngựa","Voi"],"correct":0},
+  {"question":"Trong hệ Mặt Trời, hành tinh nào lớn nhất?","options":["Trái Đất","Sao Thổ","Sao Mộc","Sao Hải Vương"],"correct":2}
+]
